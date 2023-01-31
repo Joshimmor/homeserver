@@ -19,61 +19,6 @@
 | `/ip` | For location based user interface. |
 | `/q` | For getting the parameters passed with URL. |
 
----
-## How to use this ? 
-- Don't be scared 😬 by watching a ton files, Most are just to configure the deploy settings. 🏋️‍♂️
-- Star this repository. ⭐️
-- Make a new repository by clicking [here.](https://github.com/jainamoswal/Flask-Example/generate) 👲
-- Go to [modules folder](modules). 📂
-- Add or modify the plugins. ✏️
-- Crawl any hosting provider. 🕷
-- Link your (Newly generated 🍽) repository with it. 🔗
-- Deploy it there or replace your username [here](#deployments) and deploy using buttons. 🚀 
-- And done. ✅
-
-#### OR 
-- Just [deploy](#deployments) this repository for testing. 🧪
-
-### Deployments
-
-
-
-<details><summary>Heroku.com 🚀</summary>
-<br>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jainamoswal/Flask-Example)
-</details>
- 
-<details><summary>Replit.com 🌀</summary>
-<br>
-
-[![Run on Repl.it](https://repl.it/badge/github/jainamoswal/Flask-Example)](https://repl.it/github/jainamoswal/Flask-Example)
-</details>
-
-<details><summary>Zeet.co 💪</summary>
-<br>
- 
-[![Deploy](https://deploy.zeet.co/Flask-Example.svg)](https://deploy.zeet.co?url=https://github.com/jainamoswal/Flask-Example)
-</details>
-
-#### Adding some other hosting providers too 🤧 soon.
-
-
-
-
----
-
-<details>
-<summary>Support ground. ⛹️‍♂️🤝</summary>
-<br>  
-  
-- [![Channel](https://img.shields.io/badge/Telegram-Channel-green?style=for-the-badge&logo=telegram)](https://t.me/J_projects)
-- [![Support](https://img.shields.io/badge/Telegram-Group-green?style=for-the-badge&logo=telegram)](https://t.me/J_projects_chat)
-</details>
-
-
-
-<details>
 <summary>Donate. 💰💷</summary>
 <br>  
   
